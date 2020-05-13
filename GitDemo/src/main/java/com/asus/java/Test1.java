@@ -6,6 +6,7 @@ package com.asus.java;
  * @date 2020/5/13 19:27
  */
 //来自本地仓库的冲突...
+//来自远程仓库的冲突...
 public class Test1 {
     /*
      *提交
